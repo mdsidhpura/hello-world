@@ -1,2 +1,4 @@
 # hello-world
-This is my first project on github.
+
+Hii I am Sidhpura Mohammed,
+I like Html, Css and Bootstrap and also wordpress.
